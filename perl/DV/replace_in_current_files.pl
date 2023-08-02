@@ -9,7 +9,7 @@ use strict;
 use warnings;
 
 my $dir = ".";
-my $file_ex = "sv";
+my $file_ex = "txt";
 my $str = shift;
 my $new_str = shift;
 
